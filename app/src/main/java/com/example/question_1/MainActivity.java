@@ -9,9 +9,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    private String[] questions = {"Java is a person ?", "Java was introduced in 1233 ?",
-            "Java was created using Python ?",
-            "Java has abstract classes ?", "Java supports interfaces ?", "Java was created by Alok Agnihotri in India ?", "Constructor overloading is not possible in Java", "In your Java program, you can use reserved words as variable names.","Java is a case-sensitive language", "Java is considered a low-level programming language."};
+    private String[] questions = {"Java is a person.", "Java was introduced in 1233.",
+            "Java was created using Python.",
+            "Java has abstract classes.", "Java supports interfaces.", "Java was created by Alok Agnihotri in India.", "Constructor overloading is not possible in Java.", "In your Java program, you can use reserved words as variable names.","Java is a case-sensitive language.", "Java is considered a low-level programming language."};
     private boolean[] answers = {false, false, false, true, true, false,false,false,true,false};
     private int score = 0;
     Button yes;
