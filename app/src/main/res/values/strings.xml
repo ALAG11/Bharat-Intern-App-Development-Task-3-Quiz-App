@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="welcome_to_java_quiz">Welcome To Java Quiz</string>
+    <string name="todo">TODO</string>
+    <string name="java_was_introduced_in_1823">1. Java was introduced in 1823?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
